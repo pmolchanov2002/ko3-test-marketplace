@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "claude-skills",
-      "source": ".",
+      "source": "./claude-skills",
       "description": "Test plugin with backend skills, standards, commands, and agents"
     }
   ]
