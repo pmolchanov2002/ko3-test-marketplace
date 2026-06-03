@@ -2,7 +2,9 @@
   "name": "@ko3/claude-skills",
   "version": "0.1.0",
   "description": "Test plugin",
-  "author": "ko3-engineering",
+  "author": {
+    "name": "ko3-engineering"
+  },
   "skills": [
     "./skills/backend"
   ],
