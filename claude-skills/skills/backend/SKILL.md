@@ -7,7 +7,6 @@ status: active
 version: 0.1.0
 created: 2026-06-03
 last_reviewed: 2026-06-03
-plugin_version: 0.1.0
 changelog:
   - version: 0.1.0
     date: 2026-06-03
