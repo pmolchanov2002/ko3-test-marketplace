@@ -1,11 +1,11 @@
 {
-  "name": "ko3-test-plugin",
+  "name": "ko3-claude-skills",
   "owner": {
     "name": "ko3-engineering"
   },
   "plugins": [
     {
-      "name": "ko3-claude-skills",
+      "name": "claude-skills",
       "source": ".",
       "description": "Test plugin with backend skills, standards, commands, and agents"
     }

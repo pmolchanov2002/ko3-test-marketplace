@@ -1,5 +1,5 @@
 {
-  "name": "@ko3/claude-skills",
+  "name": "@ko3-claude-skills/claude-skills",
   "version": "0.1.0",
   "description": "Test plugin",
   "author": "ko3-engineering",
