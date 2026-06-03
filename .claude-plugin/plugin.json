@@ -1,0 +1,19 @@
+{
+  "name": "@ko3/claude-skills",
+  "version": "0.1.0",
+  "description": "Test plugin",
+  "author": "ko3-engineering",
+  "skills": [
+    "./skills/backend"
+  ],
+  "standards": [
+    "./standards/global"
+  ],
+  "commands": [
+    "./commands/standards/check.md"
+  ],
+  "agents": [
+    "./agents/code-reviewer.md",
+    "./agents/standards-checker.md"
+  ]
+}
